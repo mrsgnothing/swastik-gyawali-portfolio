@@ -1,0 +1,14 @@
+{
+  "name": "swastik-gyawali-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Premium personal portfolio website for Swastik Gyawali",
+  "packageManager": "pnpm@12.3.4",
+  "scripts": {
+    "dev": "serve . -l 3000 -n",
+    "start": "serve . -l 3000 -n"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
